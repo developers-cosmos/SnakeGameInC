@@ -14,5 +14,8 @@
 •	‘RIGHT ARROW’ for RIGHT.</p><br>
 <p>The aim of the game is to collect the dots (food) and avoid obstacles (window and the snake itself). As you collect food, the snake gets longer, so increasing your chance to crashing yourself. If the snake crashes with obstacles you get score according to the length of the snake. There is no concept of lives. Once you hit an obstacle, that’s it, game over.</p></br>
 <h4>Design</h4> <br>
-    ![System design](/images/design.JPG)
+ <center>   <img src="images/design.JPG"> </center> <br>
+<h4>Output</h4> <br>
+<img src="images/newgame.JPG"> 
+  
 
